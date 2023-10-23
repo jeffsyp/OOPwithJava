@@ -4,6 +4,7 @@ package oopwithjava;
  * Represents the different time slots available for events.
  * Each time slot is defined by a start hour and minute.
  *
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public enum Timeslot {
