@@ -5,6 +5,7 @@ package oopwithjava;
  * Provides functionalities to add, remove, and print events, and sort events by
  * date, campus, and department.
  *
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 
