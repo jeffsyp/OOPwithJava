@@ -4,6 +4,7 @@ package oopwithjava;
  * The entry point for running the Event Organizer application.
  * It creates an instance of EventOrganizer and runs it.
  *
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public class RunProject1 {
