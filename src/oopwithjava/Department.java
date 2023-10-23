@@ -3,6 +3,7 @@ package oopwithjava;
 /**
  * Represents various departments with their full names.
  * 
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public enum Department {
