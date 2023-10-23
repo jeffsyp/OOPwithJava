@@ -3,6 +3,7 @@ package oopwithjava;
 /**
  * Represents an event with date, time, location, contact and duration details.
  *
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public class Event implements Comparable<Event> {
