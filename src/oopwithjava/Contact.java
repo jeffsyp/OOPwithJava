@@ -5,6 +5,7 @@ package oopwithjava;
  * This class holds and validates the email and department information for a
  * contact.
  * 
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public class Contact {
