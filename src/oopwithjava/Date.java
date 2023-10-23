@@ -6,6 +6,7 @@ import java.util.Calendar;
  * Represents a date, allowing for validation, comparison, and text
  * representation.
  * 
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public class Date implements Comparable<Date> {
