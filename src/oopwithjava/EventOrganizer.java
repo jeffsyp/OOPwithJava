@@ -8,6 +8,7 @@ import java.util.StringTokenizer;
  * calendar.
  * It processes the user commands for various operations related to events.
  *
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public class EventOrganizer {
