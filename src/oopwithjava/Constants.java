@@ -4,7 +4,8 @@ package oopwithjava;
  * Provides constant values for managing dates and time.
  * This class contains constants used throughout the project to avoid magic
  * numbers and improve readability.
- * 
+ *
+ * @author Jeffery Sypytkowski
  * @author Altay Ozkan
  */
 public class Constants {
